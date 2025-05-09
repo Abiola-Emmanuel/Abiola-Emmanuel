@@ -22,7 +22,7 @@ I'm a self-taught Full Stack Developer with a passion for building web apps usin
 * [E-commerce Store](https://github.com/Abiola-Emmanuel/ecommerce-store): **React, MUI, Cart Functionality**
 * [Travel Planner](https://github.com/Abiola-Emmanuel/travel-planner): **Country Info, Weather, Currency Exchange**
 * [AI Chatbot](https://github.com/Abiola-Emmanuel/ai-chatbot): **React, Node.js, DeepSeek API, Chat History**
-* [Social Media Dashboard](https://https://myadminpostboard.vercel.app): **Google OAuth, Posts, Likes, Comments**
+* [Social Media Dashboard](https://myadminpostboard.vercel.app): **Google OAuth, Posts, Likes, Comments**
 * [Netflix Clone](https://netflix-clone-ivory-xi-33.vercel.app): **React, API Integration, Movie Data Display**
 
 ### 📊 GitHub Stats
