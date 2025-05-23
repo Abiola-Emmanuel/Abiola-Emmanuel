@@ -10,7 +10,7 @@ I'm a self-taught Full Stack Developer with a passion for building web apps usin
 
 ### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?\&logo=linkedin\&logoColor=white\&style=for-the-badge)]() [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?\&logo=githubpages\&logoColor=white\&style=for-the-badge)]() [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white\&style=for-the-badge)](mailto:sijuwolaabiola@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?\&logo=linkedin\&logoColor=white\&style=for-the-badge)](https://www.linkedin.com/in/emmanuel-abiola-a3a403367/) [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?\&logo=githubpages\&logoColor=white\&style=for-the-badge)](https://emmandev-three.vercel.app/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white\&style=for-the-badge)](mailto:emmanndev@gmail.com)
 
 ### 🚀 Tech Stack
 
@@ -19,7 +19,7 @@ I'm a self-taught Full Stack Developer with a passion for building web apps usin
 
 ### 🛠️ Projects
 
-* [E-commerce Store](https://github.com/Abiola-Emmanuel/ecommerce-store): **React, MUI, Cart Functionality**
+* [E-commerce Store](mmere-store-front-end.vercel.app): **React, Framer, Tailwind CSS, Authentication, Stripe Checkout Cart Functionality**
 * [Travel Planner](https://travel-planner-sand-five.vercel.app): **Country Info, Weather, Currency Exchange**
 * [AI Chatbot](https://github.com/Abiola-Emmanuel/ai-chatbot): **React, Node.js, DeepSeek API, Chat History**
 * [Social Media Dashboard](https://myadminpostboard.vercel.app): **Google OAuth, Posts, Likes, Comments**
