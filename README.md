@@ -19,7 +19,7 @@ I'm a self-taught Full Stack Developer with a passion for building web apps usin
 
 ### 🛠️ Projects
 
-* [E-commerce Store](mmere-store-front-end.vercel.app): **React, Framer, Tailwind CSS, Authentication, Stripe Checkout Cart Functionality**
+* [E-commerce Store](e-commere-store-front-end.vercel.app): **React, Framer, Tailwind CSS, Authentication, Stripe Checkout Cart Functionality**
 * [Travel Planner](https://travel-planner-sand-five.vercel.app): **Country Info, Weather, Currency Exchange**
 * [AI Chatbot](https://github.com/Abiola-Emmanuel/ai-chatbot): **React, Node.js, DeepSeek API, Chat History**
 * [Social Media Dashboard](https://myadminpostboard.vercel.app): **Google OAuth, Posts, Likes, Comments**
