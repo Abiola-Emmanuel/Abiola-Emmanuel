@@ -118,7 +118,7 @@ A sleek cryptocurrency trading website inspired by modern fintech design princip
 
 ---
 
-## 🎨 Portfolio 2025
+## 🎨 [Portfolio 2025](https://emmandev-three.vercel.app/)
 
 My personal portfolio built with:
 
@@ -130,7 +130,7 @@ My personal portfolio built with:
 
 ---
 
-## 🏥 Shape Rehabilitation
+## 🏥 [Shape Rehabilitation](https://shape-rehabiliation.vercel.app/)
 
 A healthcare website for a rehabilitation center highlighting services and patient success stories.
 
