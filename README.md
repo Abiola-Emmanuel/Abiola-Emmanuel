@@ -156,7 +156,3 @@ A healthcare website for a rehabilitation center highlighting services and patie
 
 > *"Building software that is fast, scalable, and enjoyable to use."* 🚀
 
-# | Abiola | Emmanuel
-  |--------|*bold
-  -Emman
-  -Abiola
