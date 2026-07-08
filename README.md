@@ -15,7 +15,7 @@ I enjoy building practical cybersecurity projects that demonstrate real-world sk
 ## Projects
 | Project | Description | Repository |
 |---------|-------------|------------|
-| OSINT Investigation | Conducted an OSINT investigation on a target organization | [OSINT](https://github.com/Abiola-Emmanuel/osint-project) | 
+| OSINT Investigation | Conducted an OSINT investigation on a target organization | https://github.com/Abiola-Emmanuel/osint-project | 
 | Log Analysis | Analysed IIS and Windows Event Logs to Identify Attacks | Coming soon | 
 
 ## Skills
