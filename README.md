@@ -74,7 +74,7 @@ Currently expanding my knowledge into **Cybersecurity**, **React Native**, and *
 
 # 🚀 Featured Projects
 
-## 🛍️ E-Commerce Platform
+## 🛍️ [E-Commerce Platform](https://e-commere-store-front-end.vercel.app/)
 
 A modern full-stack e-commerce application featuring:
 
@@ -85,7 +85,7 @@ A modern full-stack e-commerce application featuring:
 
 ---
 
-### 🎬 TVEES-MEDIA
+### 🎬 [TVEES-MEDIA](https://tivees.com/)
 
 A full-stack movie streaming platform built to deliver a modern streaming experience with real-time collaborative viewing.
 
@@ -100,19 +100,19 @@ A full-stack movie streaming platform built to deliver a modern streaming experi
 **Tech Stack**
 Next.js • Node.js • Express • WebSockets • Cloudflare R2 • Tailwind CSS • MySQL
 
-## 📊 Sub Zero
+## 📊 [Sub Zero](https://sub-zero-self.vercel.app/)
 
 A subscription management dashboard that allows users to organize and track recurring subscriptions.
 
 ---
 
-## 🦠 IABIC
+## 🦠 [IABIC](https://iabic.vercel.app/)
 
 An NGO website built for the **Integrated Agenda for Bacterial Infection Control Foundation**, showcasing the organization's mission, initiatives, and impact.
 
 ---
 
-## 💹 OKX Crypto Website
+## 💹 [OKX Crypto Website](https://okx-five.vercel.app/)
 
 A sleek cryptocurrency trading website inspired by modern fintech design principles.
 
@@ -138,9 +138,9 @@ A healthcare website for a rehabilitation center highlighting services and patie
 
 # 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abiola-Emmanuel&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abiola-Emmanuel&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abiola-Emmanuel&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abiola-Emmanuel&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -155,3 +155,8 @@ A healthcare website for a rehabilitation center highlighting services and patie
 ---
 
 > *"Building software that is fast, scalable, and enjoyable to use."* 🚀
+
+# | Abiola | Emmanuel
+  |--------|*bold
+  -Emman
+  -Abiola
